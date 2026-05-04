@@ -45,7 +45,7 @@ Users should be able to:
 
 Ok so this time, I learned a lot about flexbox, and how to use them effectively. Also the margin and padding use in the project is increasing, with extreme care to be taken there. From next onwards, I will focus on these areas frequently.
 
-To see how you can add code snippets, see below:
+Some code snippets, see below:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
