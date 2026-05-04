@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://agentsquareofficial.github.io/blog-preview-card-main)
+- Live Site URL: [view](https://agentsquareofficial.github.io/blog-preview-card-main)
 
 ## My process
 
